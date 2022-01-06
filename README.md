@@ -1,6 +1,6 @@
 - 👋 <strong> Oi, eu sou a Raele Pereira!</strong>
 
-- 🌱 Atualmente estou estudando JavaScript ...
+- 🌱 Atualmente estou estudando HTML, CSS e JavaScript ...
 - 😄 Pronomes: Ela/Dela
 
 <div align="center">
