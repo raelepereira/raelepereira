@@ -1,7 +1,6 @@
-- 👋 <strong> Oi, eu sou a Raele Pereira!</strong>
+ <h1 align="center">Oi, me chamo <strong>Raele Pereira!</strong></h1>
+ <p align="center">Sou desenvolvedora Front-end e atualmente estou estudando: HTML, CSS e JavaScript</p>
 
-- 🌱 Atualmente estou estudando HTML, CSS e JavaScript ...
-- 😄 Pronomes: Ela/Dela
 
 <div align="center">
   <a href="https://github.com/raelepereira">
