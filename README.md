@@ -1,5 +1,5 @@
  <h1 align="center">Oi, me chamo <strong>Raele Pereira!</strong></h1>
- <p align="center">Sou estudante de desenvolvimento da Laboratória e atualmente estou estudando: HTML, CSS e JavaScript</p>
+ <p align="center">Sou estudante de desenvolvimento na Laboratória e atualmente estou estudando: HTML, CSS e JavaScript</p>
 
 
 <div align="center">
