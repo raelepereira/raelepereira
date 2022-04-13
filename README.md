@@ -1,17 +1,17 @@
  <h1 align="center">Oi, me chamo <strong>Raele Pereira!</strong></h1>
  <p align="center">Sou estudante de Desenvolvimento Front-End na Laboratória e atualmente estou estudando: HTML, CSS e JavaScript</p>
 
-
 <details open align="center">
   <br>
     <summary>⚙ <b>Estatísticas do GitHub</b>: </summary>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelepereira&show_icons=true&locale=pt-br&layout=compact&theme=dracula" alt="juliabb" width="495"/></p>
+  <div align="center">
+  <a href="https://github.com/raelepereira">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raelepereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raelepereira&theme=dracula" alt="raelepereira"/></p>
+     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelepereira&show_icons=truelayout=compact&theme=dracula" alt="raelepereira" width="490">
+</p>
 
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=raelepereira&show_icons=true&locale=pt-br&theme=dracula" alt="raelepereira" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raelepereira&theme=dracula" alt="juliabb" /></p>
-
+ </div>
 
 <div align="center" valign="top"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
