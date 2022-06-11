@@ -8,8 +8,7 @@
   <a href="https://github.com/raelepereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raelepereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
    <p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raelepereira&theme=dracula" alt="raelepereira"/></p>
-     <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raelepereira&show_icons=truelayout=compact&theme=dracula" alt="raelepereira" width="490">
-</p>
+    
 
  </div>
 
