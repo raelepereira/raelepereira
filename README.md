@@ -1,5 +1,5 @@
  <h1 align="center">Oi, me chamo <strong>Raele Pereira!</strong></h1>
- <p align="center">Sou Desenvolvedora Front-End Jr. e atualmente estou estudando: JavaScript e React.js</p>
+ <p align="center">Sou Desenvolvedora Front-End e atualmente estou estudando: JavaScript e React.js</p>
 
 <details open align="center">
   <br>
@@ -7,7 +7,7 @@
   <div align="center">
   <a href="https://github.com/raelepereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raelepereira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <p align="center"><img height="180em" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raelepereira&theme=dracula" alt="raelepereira"/></p>
+
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raelepereira&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
     
 
